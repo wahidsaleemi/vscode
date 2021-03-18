@@ -1,0 +1,88 @@
+{
+    "team.showWelcomeMessage": false,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "explorer.confirmDragAndDrop": false,
+    "[json]": {},
+    "[markdown]": {
+        "editor.rulers": [120],
+        "editor.wordWrapColumn": 120,
+        "editor.wordWrap": "bounded",
+        "files.trimTrailingWhitespace": false,
+        "editor.quickSuggestions": false,
+        "editor.parameterHints.enabled": false,
+        "editor.suggestOnTriggerCharacters": false,
+        "editor.formatOnSave": false
+    },
+    "[arm-template]": {
+        "editor.acceptSuggestionOnCommitCharacter": true
+    },
+    "workbench.colorTheme": "Bluloco Light",
+    "vsicons.dontShowNewVersionMessage": true,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
+    "terminal.integrated.fontFamily": "Delugia Nerd Font",
+    "projectManager.git.baseFolders": [
+        "C:\\Users\\wasaleem\\Code"
+    ],
+    "markdownlint.customRules": [
+        "{docsmsft.docs-linting}/markdownlint-custom-rules/rules.js"
+    ],
+    "markdownlint.config": {
+        "MD028": false
+    },
+    "cSpell.userWords": [
+        "ADFS",
+        "COVID",
+        "CPUs",
+        "DPOR",
+        "Georgiev",
+        "IOPS",
+        "Logix",
+        "MSIX",
+        "Nerdio",
+        "Redirections",
+        "Remoting",
+        "Roadmap",
+        "Uservoice",
+        "VHDX",
+        "Vnet",
+        "Youtube",
+        "azadmin",
+        "azcoldfreeze",
+        "azurepowershell",
+        "contoso",
+        "financials",
+        "markdownlint",
+        "onprem",
+        "wahidsaleemi",
+        "workstream"
+    ],
+    "azureResourceManagerTools.parameterFiles": {
+    },
+    "yaml.schemas": {
+        "file:///toc.schema.json": "/toc\\.yml/i"
+    },
+    "docs-build.userType": "Microsoft Employee",
+    "shellLauncher.shells.windows": [
+
+        {
+            "shell": "C:\\Windows\\System32\\cmd.exe",
+            "label": "cmd"
+        },
+        {
+            "shell": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
+            "label": "PowerShell"
+        },
+        {
+            "shell": "C:\\Program Files\\Git\\bin\\bash.exe",
+            "label": "Git bash"
+        },
+        {
+            "shell": "C:\\Windows\\System32\\bash.exe",
+            "label": "WSL Bash"
+        }
+    ],
+    "terminal.integrated.automationShell.windows": "",
+    "terminal.explorerKind": "external"
+}
